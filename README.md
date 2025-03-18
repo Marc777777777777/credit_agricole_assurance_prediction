@@ -1,4 +1,4 @@
-#"AssurPrime : Saurez-vous prédire la prime d'assurance ?" par Crédit Agricole Assurances
+# "AssurPrime : Saurez-vous prédire la prime d'assurance ?" par Crédit Agricole Assurances
 
 Le contrat Multirisque Agricole, géré par Pacifica, est souscrit par les agriculteurs pour sécuriser leur exploitation. Il couvre l’activité professionnelle, les dommages aux bâtiments d’exploitation, le matériel stocké, ainsi que la protection financière et juridique. Ce contrat garantit à l’assuré une couverture efficace et durable, assurant ainsi la continuité de son activité en cas de sinistre, tant sur le plan matériel que financier.
 
